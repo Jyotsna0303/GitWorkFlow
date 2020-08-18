@@ -1,2 +1,2 @@
 # GitWorkFlow
-Release branch for every month so that all features(planned for that month) can be pushed here.
+Every Month's release branch pushed to master on 25th of every month.
